@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.wideorbit.wost_library.WOSTLibrary;
+import com.wideorbit.wostreaming.WOSTLibrary;
 
 public class MainActivity extends AppCompatActivity {
 

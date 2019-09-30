@@ -1,2 +1,2 @@
-include ':app', ':wost-library'
+include ':app', ':WOStreaming'
 rootProject.name='WOST'

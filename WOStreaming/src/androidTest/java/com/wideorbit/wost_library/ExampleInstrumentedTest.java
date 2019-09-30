@@ -1,4 +1,4 @@
-package com.wideorbit.wost_library;
+package com.wideorbit.wostreaming;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
 		// Context of the app under test.
 		Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-		assertEquals("com.wideorbit.wost_library.test", appContext.getPackageName());
+		assertEquals("com.wideorbit.wostreaming.test", appContext.getPackageName());
 	}
 }

@@ -1,4 +1,4 @@
-package com.wideorbit.wost_library;
+package com.wideorbit.wostreaming;
 
 import org.junit.Test;
 
