@@ -1,0 +1,2 @@
+include ':app', ':wost-library'
+rootProject.name='WOST'
